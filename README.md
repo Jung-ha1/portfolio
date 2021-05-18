@@ -14,7 +14,7 @@ _안녕_
 ~~안녕~~
 ---
 
-[메모앱](https://github.com/Jung-ha1/Python)
+# [메모앱](https://github.com/Jung-ha1/Python)
 
 # 내 포트폴리오
 ![image](https://user-images.githubusercontent.com/83272007/118616031-4ad44900-b7fc-11eb-9577-caaff4267dee.png)
